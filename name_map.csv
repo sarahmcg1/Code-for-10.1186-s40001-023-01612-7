@@ -1,0 +1,50 @@
+HilleName,Query,Match,HMDB,PubChem,KEGG,SMILES,Comment,Other,CHEBI
+Alanine,Alanine,L-Alanine,HMDB0000161,5950,C00041,C[C@@H](C(=O)O)N,1,MAM01307,16977
+Glycine,Glycine,Glycine,HMDB0000123,750,C00037,C(C(=O)O)N,1,MAM01986,15428
+Valine,Valine,L-Valine,HMDB0000883,6287,C00183,CC(C)[C@@H](C(=O)O)N,1,MAM03135,16414
+Leucine,Leucine,L-Leucine,HMDB0000687,6106,C00123,CC(C)C[C@@H](C(=O)O)N,1,"	MAM02360",15603
+Isoleucine,Isoleucine,L-Isoleucine,HMDB0000172,6306,C00407,CC[C@H](C)[C@@H](C(=O)O)N,1,MAM02184,17191
+Threonine,Threonine,L-Threonine,HMDB0000167,6288,C00188,C[C@H]([C@@H](C(=O)O)N)O,1,MAM02993,16857
+Proline,Proline,L-Proline,HMDB0000162,145742,C00148,C1C[C@H](NC1)C(=O)O,1,MAM02770,17203
+Asparagine,Asparagine,L-Asparagine,HMDB0000168,6267,C00152,C([C@@H](C(=O)O)N)C(=O)N,1,MAM01369,17196
+Serine,Serine,Serine,HMDB0062263,5951,C00716,N[C@@H](CO)C(O)=O,1,MAM02896,17115
+Glutamicacid,Glutamic acid,L-Glutamic acid,HMDB0000148,33032,C00025,C(CC(=O)O)[C@@H](C(=O)O)N,1,MAM01974,16015
+Methionine,Methionine,L-Methionine,HMDB0000696,6137,C00073,CSCC[C@@H](C(=O)O)N,1,MAM02471,16643
+Phenylalanine,Phenylalanine,L-Phenylalanine,HMDB0000159,6140,C00079,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,1,MAM02724,17295
+Ornithine,Ornithine,Ornithine,HMDB0000214,6262,C00077,C(C[C@@H](C(=O)O)N)CN,1,MAM02658,15729
+Lysine,Lysine,L-Lysine,HMDB0000182,5962,C00047,C(CCN)C[C@@H](C(=O)O)N,1,MAM02426,18019
+Tyrosine,Tyrosine,L-Tyrosine,HMDB0000158,6057,C00082,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,1,MAM03101,17895
+Tryptophane,Tryptophan,L-Tryptophan,HMDB0000929,6305,C00078,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,1,MAM03089,16828
+Asparticacid,Aspartic acid,L-Aspartic acid,HMDB0000191,5960,C00049,C([C@@H](C(=O)O)N)C(=O)O,1,MAM01370,17053
+Cystine,Cystine,L-Cystine,HMDB0000192,67678,C00491,C([C@@H](C(=O)O)N)SSC[C@@H](C(=O)O)N,1,MAM01629,16283
+Pyruvicacid,Pyruvic acid,Pyruvic acid,HMDB0000243,1060,C00022,CC(=O)C(=O)O,1,MAM02819,32816
+Fumaricacid,Fumaric acid,Fumaric acid,HMDB0000134,444972,C00122,C(=C/C(=O)O)\C(=O)O,1,MAM01862,18012
+Succinicacid,Succinic acid,Succinic acid,HMDB0000254,1110,C00042,C(CC(=O)O)C(=O)O,1,MAM02943,15741
+Lacticacid,Lactic acid,L-Lactic acid,HMDB0000190,61503,C00186,C[C@@H](C(=O)O)O,1,MAM02403,24996
+Malicacid,Malic acid,Malic acid,HMDB0000744,525,C03668,C(C(C(=O)O)O)C(=O)O,1,MAM02439,6650
+Oxoproline,Oxoproline,Pyroglutamic acid,HMDB0000267,7405,C01879,C1CC(=O)N[C@@H]1C(=O)O,1,,25801
+Acetylcarnitine,Acetylcarnitine,L-Acetylcarnitine,HMDB0000201,7045767,C02571,CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,1,MAM02634,57589
+Arachidonicacid,Arachidonic acid,Arachidonic acid,HMDB0001043,444899,C00219,CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,1,MAM02648,15843
+Arginine,Arginine,L-Arginine,HMDB0000517,6322,C00062,C(C[C@@H](C(=O)O)N)CN=C(N)N,1,MAM01365,16467
+Butyrylcarnitine,Butyrylcarnitine,Butyrylcarnitine,HMDB0002013,439829,C02862,CCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,1,MAM02635,7676
+Decanoylcarnitine,Decanoylcarnitine,Decanoylcarnitine,HMDB0000651,10245190,C03299,CCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,1,MAM03488,68830
+DihomoLinolenicacid,"8,11,14-Eicosatrienoic acid","8,11,14-Eicosatrienoic acid",HMDB0002925,5280581,C03242,CCCCC/C=C\C/C=C\C/C=C\CCCCCCC(=O)O,1,MAM01696,27432
+Docosahexanoicacid,Docosahexaenoate,Docosahexaenoic acid,HMDB0002183,445580,C06429,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O,1,,
+Docosapentanoicacid,"(7Z,10Z,13Z,16Z,19Z)-Docosa-7,10,13,16,19-pentaenoic acid",Docosapentaenoic acid,HMDB0006528,5497182,C16513,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCCC(=O)O,1,,
+Eicosapentanoicacid,Eicosapentanoic acid,Eicosapentaenoic acid,HMDB0001999,446284,C06428,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,1,,
+gammaLinolenicacidalpha,"9,12,15-Octadecatrienoic acid",Alpha-Linolenic acid,HMDB0001388,5280934,C06426,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,1,,28661
+Glucose,Glucose,D-Glucose,HMDB0000122,5793,C00221,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O,1,MAM01965,17234
+Glutamine,Glutamine,L-Glutamine,HMDB0000641,5961,C00064,C(CC(=O)N)[C@@H](C(=O)O)N,1,MAM01975,18050
+Histidine,Histidine,L-Histidine,HMDB0000177,6274,C00135,C1=C(NC=N1)C[C@@H](C(=O)O)N,1,MAM02125,15971
+Carnitine,Carnitine,L-Carnitine,HMDB0000062,2724480,C00318,C[N+](C)(C)C[C@H](CC(=O)[O-])O,1,MAM02348,
+Linoleicacid,Linoleic acid,Linoleic acid,HMDB0000673,5280450,C01595,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,1,MAM03726,
+Linolenicacid,Linolenic acid,Alpha-Linolenic acid,HMDB0001388,5280934,C06427,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,1,,
+Kynurenine,Kynurenine,L-Kynurenine,HMDB0000684,161166,C00328,C1=CC=C(C(=C1)C(=O)C[C@@H](C(=O)O)N)N,1,MAM02319,
+Myristoylcarnitine,Myristoylcarnitine,Tetradecanoylcarnitine,HMDB0005066,53477791,C02990  ,CCCCCCCCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,1,MAM02973,
+Octanylcarnitine,L-Octanoylcarnitine,L-Octanoylcarnitine,HMDB0000791,11953814,C02838,CCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,1,MAM02409,
+Oleicacid,Oleic acid,Oleic acid,HMDB0000207,445639,C00712,CCCCCCCC/C=C\CCCCCCCC(=O)O,1,,
+Palmitoleicacid,Palmitoleic acid,Palmitoleic acid,HMDB0003229,5312427,C08362,CCCCCC/C=C\CCCCCCCC(=O)O,1,MAM01197,
+Propionylcarnitine,Propionylcarnitine,Propionylcarnitine,HMDB0000824,107738,C03017,CCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,1,MAM02657,
+Sphingosine1phosphate,Sphingosine 1-phosphate,Sphingosine 1-phosphate,HMDB0000277,5353956,C06124,CCCCCCCCCCCCC/C=C/C(C(COP(=O)(O)O)N)O,1,MAM02930,
+TrimethylNoxide,Trimethylamine N-oxide,Trimethylamine N-oxide,HMDB0000925,1145,C01104,C[N+](C)(C)[O-],1,MAM03054,
+Uricacid,Uric acid,Uric acid,HMDB0000289,1175,C00366,C12=C(NC(=O)N1)NC(=O)NC2=O,1,MAM03120,
